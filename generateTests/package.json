@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "json-schema-test-data-generator": "^0.1.1",
+    "swagger-test-templates": "^1.6.0"
+  }
+}
